@@ -1,11 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-{
-  "intents": [
+{  "intents": [
       {
           "tag": "greeting",
           "patterns": [
@@ -56,7 +49,7 @@
           ]
       },
       {
-          "tag": "anxiety",
+          "tag": "anxiety", 
           "patterns": [
               "I think I have anxiety",
               "What is anxiety?",
